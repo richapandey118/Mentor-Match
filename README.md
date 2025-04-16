@@ -196,13 +196,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Our talented hackathon team consists of:
 
-- **[Santosh Maurya](https://github.com/joker-pyc)** - Project Lead & Backend Developer & AI/ML Engineer
+- **[Santosh Maurya](https://github.com/joker-pyc)** - Project Leader & Backend Developer & AI/ML Engineer
 
-- **[Richa Pandey](https://github.com/)** - UI/UX Designer & Frontend Developer
+- **[Richa Pandey](https://github.com/)** - Frontend Developer
+
+- **[Akarshi Singh](https://github.com/)** - PPT and Logo designing
 
 - **[Rishabh Singh](https://github.com/rish2260)** - management & communication
 
-- **[Harish Rajput](https://github.com/)** - Presentation & UI/UX Designer
+- **[Harish Rajput](https://github.com/)** - Presentation
 
 This diverse team brings together a range of skills and expertise to create MentorMatch, an innovative platform for connecting mentors and mentees.
 
