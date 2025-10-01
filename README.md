@@ -1,6 +1,4 @@
-
-#MentorConnect
-</p>
+# MentorConnect
 
 
 MentorConnect is an innovative platform that connects aspiring professionals with experienced mentors, fostering growth and knowledge sharing in various fields.
