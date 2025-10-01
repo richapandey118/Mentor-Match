@@ -149,17 +149,6 @@ MentorMatch/
 
 ---
 
-## 🌟 Screenshots
-
-Here are some screenshots of MentorConnect in action:
-
-<p align="center">
-  <img src="src/screenshots/dashboard.png" alt="Dashboard" width="400">
-  <img src="src/screenshots/chat.png" alt="Chat" width="400">
-</p>
-
----
-
 ## 🛠️ Useful Commands
 
 - **`npm install`**: Install project dependencies.
