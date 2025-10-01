@@ -1,12 +1,7 @@
 
-<p align="center" style="font-size: 24px; font-weight: bold;">
-MentorConnect
+#MentorConnect
 </p>
 
----
-<p align="center">
-  <img src="src/logo.svg" alt="MentorMatch Logo" width="200" height="200">
-</p>
 
 MentorConnect is an innovative platform that connects aspiring professionals with experienced mentors, fostering growth and knowledge sharing in various fields.
 
