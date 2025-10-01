@@ -1,6 +1,6 @@
 
 <p align="center" style="font-size: 24px; font-weight: bold;">
-MentorMatch
+MentorConnect
 </p>
 
 ---
@@ -8,7 +8,7 @@ MentorMatch
   <img src="src/logo.svg" alt="MentorMatch Logo" width="200" height="200">
 </p>
 
-MentorMatch is an innovative platform that connects aspiring professionals with experienced mentors, fostering growth and knowledge sharing in various fields.
+MentorConnect is an innovative platform that connects aspiring professionals with experienced mentors, fostering growth and knowledge sharing in various fields.
 
 ## 🚀 Key Features
 
@@ -158,7 +158,7 @@ MentorMatch/
 
 ## 🌟 Screenshots
 
-Here are some screenshots of MentorMatch in action:
+Here are some screenshots of MentorConnect in action:
 
 <p align="center">
   <img src="src/screenshots/dashboard.png" alt="Dashboard" width="400">
@@ -192,17 +192,17 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-## Team MentorMatch
+## Team MentorConnect
 
 Our talented hackathon team consists of:
 
 - **[Santosh Maurya](https://github.com/joker-pyc)** - Project Leader & Backend Developer & AI/ML Engineer
 
-- **[Richa Pandey](https://github.com/)** - Frontend Developer
+- **[Richa Pandey](https://github.com/)** - Frontend Developer & Project Representative
 
 - **[Akarshi Singh](https://github.com/)** - PPT and Logo designing
 
-- **[Rishabh Singh](https://github.com/rish2260)** - management & communication
+- **[Rishabh Singh](https://github.com/rish2260)** - Management & Project Representative
 
 - **[Harish Rajput](https://github.com/)** - Presentation
 
@@ -212,7 +212,7 @@ This diverse team brings together a range of skills and expertise to create Ment
 ---
 
 <p align="center">
-  Made with ❤️ by the MentorMatch Team
+  Made with ❤️ by the MentorConnect Team
 </p>
 
 ---
